@@ -5,6 +5,22 @@ Group ID: C242-PS292
 
 Project Name: SkinPal
 
+
+## SkinPal: Your Personalized Skincare Assistant
+<!-- ![logo](https://ik.imagekit.io/RifqiLukmansyah/Untitled%20design%20(9).svg?updatedAt=1718955813813) -->
+
+
+Theme             : Health Innovation: Empowering Vulnerable Communities for Health and Well-being
+
+**SkinPal** is a mobile application designed to help individuals overcome common skincare challenges, including understanding their skin type, identifying skin issues, and maintaining a consistent, effective skincare routine. Many people struggle with choosing the right products due to a lack of knowledge about their skin's specific needs. SkinPal addresses this by leveraging machine learning to analyze users' facial photos, offering insights into skin type, detecting concerns like acne, and recommending personalized skincare products and routines tailored to individual needs.
+
+The app also features a progress-tracking tool that allows users to monitor their skin’s condition over time. By providing ongoing feedback and routine adjustments based on users' skin progress, SkinPal helps ensure a consistent and effective skincare regimen. This personalized approach enhances the likelihood of achieving healthier skin, as users can easily follow a regimen suited to their unique skin condition.
+
+With the global skincare industry valued at approximately USD 184 billion in 2024 and a projected 7.5% annual growth rate through 2035, the demand for personalized skincare solutions is increasing. SkinPal is poised to meet this growing need, providing a scalable and accessible solution for users worldwide. By offering tailored skincare recommendations and routine monitoring, SkinPal aims to become a trusted companion for individuals seeking healthier, well-maintained skin.
+
+
+
+
 ## Team Member
 
 | Bangkit ID | Name | Learning Path | University |LinkedIn |
