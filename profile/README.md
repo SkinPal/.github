@@ -7,7 +7,7 @@ Project Name: SkinPal
 
 
 ## SkinPal: Your Personalized Skincare Assistant
-![logo](https://ik.imagekit.io/u8c7dynjz/SkinPalLogo.jpg?updatedAt=1733291294551)
+
 
 
 Theme             : Health Innovation: Empowering Vulnerable Communities for Health and Well-being
