@@ -29,7 +29,7 @@ With the global skincare industry valued at approximately USD 184 billion in 202
 
 
 ## Team Member
-![team](https://ik.imagekit.io/humamalwi/Introduction.png?updatedAt=1733978166859)
+![team](https://ik.imagekit.io/humamalwi/Introduction.png?updatedAt=1733995477601)
 
 | Bangkit ID | Name | Learning Path | University |LinkedIn |
 | ---      | ---       | ---       | ---       | ---       |
