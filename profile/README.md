@@ -10,7 +10,7 @@ Table of Contents
 - [Download Our App](#Download-Our-Apps)
 
 
-# SkinPal: Your Personalized Skincare Assistant
+## SkinPal: Your Personalized Skincare Assistant
 <img src="https://ik.imagekit.io/humamalwi/SkinPal.png?updatedAt=1733293829616" alt="SkinPal Logo" width="150" height="150">
 
 
@@ -49,23 +49,27 @@ With the global skincare industry valued at approximately USD 184 billion in 202
 **Track:** Product Development
 
 
-#### Screenshot
-...
-#### Video Demo
+## Screenshot
+![Onboarding](https://ik.imagekit.io/humamalwi/onboarding.png?updatedAt=1734078916355)
+![Auth](https://ik.imagekit.io/humamalwi/auth.png?updatedAt=1734078916197)
+![Scan](https://ik.imagekit.io/humamalwi/scan.png?updatedAt=1734079417085)
+![Product](https://ik.imagekit.io/humamalwi/product.png?updatedAt=1734078916408)
+
+## Video Demo
 [Demo](https://youtu.be/taxuwjVi_RE)
 
-#### Project Repository
+## Project Repository
 - github      : [SkinPal](https://github.com/SkinPal)
 - Application : [Mobile Development](https://github.com/SkinPal/MD-App-Development)
 - Back-end    : [Cloud Computing](https://github.com/SkinPal/CC-API-Development)
 - Model       : [Machine Learning](https://github.com/SkinPal/ML-Model-Development)
 
-#### Figma Design
+## Figma Design
 [Figma](https://www.figma.com/design/Q68KlAzVqm0ZczgsH07TDy/Capstone?node-id=100-397&node-type=canvas&t=GnsUB7a9sH6fy0iM-0)
 
-### Download Our Apps
+## Download Our Apps
 [APK](https://drive.google.com/file/d/1pbMjGvzxFUqhAcYAEzRuBM_cdvms8X7s/view?usp=drive_link)
 
-### Bangkit Program
+## Bangkit Program
 - Website : [www.bangkit.com](https://www.bangkit.com)
 
