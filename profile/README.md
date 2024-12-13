@@ -70,6 +70,4 @@ With the global skincare industry valued at approximately USD 184 billion in 202
 ## Download Our Apps
 [APK](https://drive.google.com/file/d/1pbMjGvzxFUqhAcYAEzRuBM_cdvms8X7s/view?usp=drive_link)
 
-## Bangkit Program
-- Website : [www.bangkit.com](https://www.bangkit.com)
 
