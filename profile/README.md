@@ -4,10 +4,10 @@
 Table of Contents
 - [Project Summary](#skinpal-your-personalized-skincare-assistant)
 - [Team Member](#team-member)
-- [Dokumentasi](#dokumentasi)
 - [screenshoot](#screenshoot)
 - [video demo](#video-demo)
-- [project repository](#project-repository)
+- [Figma Design](#Figma-Design)
+- [Download Our App](#dowload-our-app)
 - [project documentation](#project-documentation)
 
 # SkinPal: Your Personalized Skincare Assistant
@@ -48,23 +48,23 @@ With the global skincare industry valued at approximately USD 184 billion in 202
 **Batch:** 2024 Batch 2
 **Track:** Product Development
 
-## Dokumentasi
-...
+
 #### Screenshoot
 ...
 #### Video Demo
-...
+[Demo](https://youtu.be/taxuwjVi_RE)
+
 #### project repository
 - github : [SkinPal](https://github.com/SkinPal)
 - Application : [Mobile Development](https://github.com/SkinPal/MD-App-Development)
 - Back-end : [Cloud Computing](https://github.com/SkinPal/CC-API-Development)
 - Model : [Machine Learning](https://github.com/SkinPal/ML-Model-Development)
 
+#### Figma Design
+[Figma](https://www.figma.com/design/Q68KlAzVqm0ZczgsH07TDy/Capstone?node-id=100-397&node-type=canvas&t=GnsUB7a9sH6fy0iM-0)
 
-#### project documentation
-- Document : [drive](https://drive.google.com/drive/folders/0AMRPzMsWPYE-Uk9PVA)
-- presentation slide : [PPT](https://drive.google.com/drive/folders/0AMRPzMsWPYE-Uk9PVA)
-- Project Plan : [drive](https://drive.google.com/drive/folders/0AMRPzMsWPYE-Uk9PVA)
+### Download Our Apps
+[APK](https://drive.google.com/file/d/1pbMjGvzxFUqhAcYAEzRuBM_cdvms8X7s/view?usp=drive_link)
 
 ### Bangkit Program
 - Website : [www.bangkit.com](https://www.bangkit.com)
