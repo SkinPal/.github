@@ -7,7 +7,7 @@ Table of Contents
 - [screenshoot](#screenshoot)
 - [video demo](#video-demo)
 - [Figma Design](#Figma-Design)
-- [Download Our App](#Dowload-Our-Apps)
+- [Download Our App](#Download-Our-Apps)
 
 
 # SkinPal: Your Personalized Skincare Assistant
