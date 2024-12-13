@@ -7,8 +7,8 @@ Table of Contents
 - [screenshoot](#screenshoot)
 - [video demo](#video-demo)
 - [Figma Design](#Figma-Design)
-- [Download Our App](#dowload-our-app)
-- [project documentation](#project-documentation)
+- [Download Our App](#Dowload-Our-Apps)
+
 
 # SkinPal: Your Personalized Skincare Assistant
 <img src="https://ik.imagekit.io/humamalwi/SkinPal.png?updatedAt=1733293829616" alt="SkinPal Logo" width="150" height="150">
