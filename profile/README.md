@@ -4,8 +4,8 @@
 Table of Contents
 - [Project Summary](#skinpal-your-personalized-skincare-assistant)
 - [Team Member](#team-member)
-- [screenshoot](#screenshot)
-- [video demo](#video-demo)
+- [Screenshoot](#screenshot)
+- [Video Demo](#video-demo)
 - [Figma Design](#Figma-Design)
 - [Download Our App](#Download-Our-Apps)
 
@@ -54,7 +54,7 @@ With the global skincare industry valued at approximately USD 184 billion in 202
 #### Video Demo
 [Demo](https://youtu.be/taxuwjVi_RE)
 
-#### project repository
+#### Project Repository
 - github      : [SkinPal](https://github.com/SkinPal)
 - Application : [Mobile Development](https://github.com/SkinPal/MD-App-Development)
 - Back-end    : [Cloud Computing](https://github.com/SkinPal/CC-API-Development)
